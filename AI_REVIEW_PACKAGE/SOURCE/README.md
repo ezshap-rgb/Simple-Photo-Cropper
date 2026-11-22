@@ -1,1 +1,0 @@
-The Simple Photo Cropper app is a simple app to size the photo to a set canvas size when you are printing photos in a specific size
